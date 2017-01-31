@@ -8,6 +8,7 @@ Kujunda kellan채ide vastavalt maitsele v천i kindlale teemale, mahutades kella t�
 1. Vastavalt kasutaja tegevusele on v천imalik v채hemalt kolme lauakella atribuuti muuta (nt suurus, v채rv, asukoht ...)
 1. Kell on originaalne ning kasutajaliides on maitsekalt kujundatud
 1. Autori ees- ja perenimi on lehel v채lja toodud
+1. Veebirakendus on 체les ehitatud objektorienteeritult.
 
 ## M천ned ideed v천imalikeks t채iendusteks (lihtsalt, et m천te hakkaks jooksma)
 
@@ -21,6 +22,7 @@ Kujunda kellan채ide vastavalt maitsele v천i kindlale teemale, mahutades kella t�
 * Kella suurus ja asukoht s천ltuvad hiire asukohast ekraanil
 * 횆kki v천iks tegu olla hoopis analoogkellaga
 * Kirjat체체pi saab ka muuta [google.com/fonts](https://www.google.com/fonts)
+* Kasutaja saab lisada mitu kellaaega erinevatest maailma kohtadest
 
 ## Abimaterjal
 
