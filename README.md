@@ -1,5 +1,8 @@
 # 1. kodutöö – Lauakell
 
+Autor: Tauri Taevik
+
+
 Kujunda kellanäide vastavalt maitsele või kindlale teemale, mahutades kella täisekraanile, et saaks kasutada lauakella või ekraanisäästja asemel. Selleks, et see sobiks paljudele ekraanidele, kasuta kujunduse loomisel protsendilisi väärtusi (nt width: 100%; ) või võimalda kella suurust kasutajal muuta.
 
 ## Nõuded
